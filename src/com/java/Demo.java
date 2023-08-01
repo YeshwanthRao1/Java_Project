@@ -8,6 +8,8 @@ public class Demo {
 		System.out.println("Hi");
 		
 		System.out.println("Java");
+
+		System.out.println("hello Java");
 	}
 
 }
